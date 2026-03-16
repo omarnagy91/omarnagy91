@@ -21,10 +21,6 @@ Building AI-powered businesses that solve real problems. Currently running **5 c
 
 ### 🛠️ Tech Stack
 `Next.js` · `TypeScript` · `Supabase` · `OpenAI` · `Vercel` · `Arabic NLP` · `Multi-tenant SaaS`
-
-### 🌍 From Egypt → Europe
-Based in Egypt, building for global markets. Currently working toward European relocation via digital nomad visa.
-
 ### 📫 Connect
 - 🌐 **Website:** [neurascale.org](https://neurascale.org)
 - 💼 **LinkedIn:** [/in/omargnagy](https://linkedin.com/in/omargnagy)
