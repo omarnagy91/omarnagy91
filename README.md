@@ -28,11 +28,6 @@ Building AI-powered businesses that solve real problems. Currently running **5 c
 **[Mnemonic](https://github.com/omarnagy91/mnemonic)** — Self-hosted AI memory for autonomous agents  
 ↳ *mem0 + Qdrant powered long-term memory system. Supermemory alternative that runs on your own infra.*
 
-### 🤝 Open Source Contributions
-
-- **[Cal.com](https://github.com/calcom/cal.com/pull/28532)** — BigBlueButton video conferencing integration  
-  ↳ *Setup page, credential management, app registration — PR #28532*
-
 ### 🛠️ Tech Stack
 `Next.js` · `TypeScript` · `Supabase` · `Python` · `OpenAI` · `Vercel` · `Docker` · `Qdrant` · `mem0` · `OpenClaw` · `Tailscale`
 
