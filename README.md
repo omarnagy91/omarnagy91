@@ -1,5 +1,5 @@
-# Omar Nagy
-## Founder & AI Architect at NeuraScale
+# Omar G. Nagy
+## AI Systems Engineer · Founder of NeuraScale
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
@@ -7,29 +7,32 @@
 ![OpenAI](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
-Building AI-powered businesses that solve real problems. Currently running **5 companies** with AI agent infrastructure.
+I build, ship, and operate **multi-agent AI systems** for businesses that can't afford to wait. **3 live products, 2 open-source tools, 9+ years engineering.** Based in Egypt, serving EU and US clients.
 
 ### 🚀 What I'm Building
 
-**[RetailOS](https://retailos.one)** — Multi-tenant POS & ordering platform  
-↳ *Live SaaS serving businesses daily | Arabic-first with RTL support*
+**[RetailOS](https://retailos.one)** — AI-first retail SaaS, multi-tenant POS & ordering platform  
+↳ *Live with paying customer (Mr. Donut, Egypt) · Arabic-first with RTL support*
 
-**[Bridge Sourcing Co.](https://bridgesourcing.co)** — Egypt→Global sourcing  
-↳ *B2B sourcing leveraging Egypt's triple-zero tariff advantage*
+**[Bridge Sourcing Co.](https://bridgesourcing.co)** — Egypt → Global B2B sourcing  
+↳ *Multi-agent pipeline leveraging Egypt's 0% tariff lanes to EU / US / Gulf*
 
-**[CompoundOS](https://compoundos.co)** — PropTech AI for residential compounds  
+**[MedPrüf](https://medpruf.com)** — Austrian medical licensing exam prep  
+↳ *10,993 active questions across 3 exam types (Wien Kenntnisprüfung, KMP Innsbruck, Pharmakologie). For foreign-trained doctors seeking Austrian medical licenses. German / English bilingual, Telegram Mini App.*
+
+**[CompoundOS](https://compoundos.co)** — PropTech AI for residential compounds (paused)  
 ↳ *Targeting Egypt's $1.2B property management market*
-
-**[MedPrep](https://medprep.neurascale.org)** — Medical exam prep AI  
-↳ *For 64K+ foreign doctors in Germany | AI-powered study plans*
 
 ### 🧠 Open Source
 
 **[Mnemonic](https://github.com/omarnagy91/mnemonic)** — Self-hosted AI memory for autonomous agents  
-↳ *mem0 + Qdrant powered long-term memory system. Supermemory alternative that runs on your own infra.*
+↳ *Layered memory: scratchpad → episodic → semantic → relationships. Contradiction resolution. Apache 2.0. Python + FastAPI + Qdrant.*
+
+**[Cortex (fork)](https://github.com/omarnagy91/cortex)** — downstream of [Builderz Labs Mission Control](https://github.com/builderz-labs/mission-control)  
+↳ *My contribution is a single OpenViking gateway response-unwrap fix. Substantially all upstream work is Builderz Labs' — please support them, not me, if Mission Control is useful to you.*
 
 ### 🛠️ Tech Stack
-`Next.js` · `TypeScript` · `Supabase` · `Python` · `OpenAI` · `Vercel` · `Docker` · `Qdrant` · `mem0` · `OpenClaw` · `Tailscale`
+`TypeScript` · `Python` · `Next.js` · `React` · `FastAPI` · `Supabase` · `PostgreSQL` · `OpenAI` · `Anthropic` · `Qdrant` · `Vercel` · `Docker`
 
 ### 📫 Connect
 - 🌐 **Website:** [omargnagy.com](https://omargnagy.com)
@@ -39,4 +42,4 @@ Building AI-powered businesses that solve real problems. Currently running **5 c
 - 📧 **Email:** omar@neurascale.org
 
 ---
-*AI-first business solutions • Open source contributor • Real products, not prototypes*
+*AI Systems Engineer · Real products, not prototypes · Last verified 2026-04-29*
