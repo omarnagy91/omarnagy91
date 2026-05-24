@@ -15,7 +15,7 @@ I build, ship, and operate **multi-agent AI systems** for businesses that can't 
 ↳ *Live with paying customer (Mr. Donut, Egypt) · Arabic-first with RTL support*
 
 **[Bridge Sourcing Co.](https://bridgesourcing.co)** — Egypt → Global B2B sourcing  
-↳ *Multi-agent pipeline leveraging Egypt's 0% tariff lanes to EU / US / Gulf*
+↳ *Multi-agent pipeline tapping Egypt's 0% tariff lanes to EU / US / Gulf*
 
 **[MedPrüf](https://medpruf.com)** — Austrian medical licensing exam prep  
 ↳ *10,993 active questions across 3 exam types (Wien Kenntnisprüfung, KMP Innsbruck, Pharmakologie). For foreign-trained doctors seeking Austrian medical licenses. German / English bilingual, Telegram Mini App.*
@@ -38,8 +38,7 @@ I build, ship, and operate **multi-agent AI systems** for businesses that can't 
 - 🌐 **Website:** [omargnagy.com](https://omargnagy.com)
 - 🏢 **Company:** [neurascale.org](https://neurascale.org)
 - 💼 **LinkedIn:** [/in/omargnagy](https://linkedin.com/in/omargnagy)
-- 🐦 **X:** [@theomar](https://x.com/theomar)
 - 📧 **Email:** omar@neurascale.org
 
 ---
-*AI Systems Engineer · Real products, not prototypes · Last verified 2026-04-29*
+*AI Systems Engineer · Real products, not prototypes · Last verified 2026-05-24*
