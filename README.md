@@ -26,7 +26,7 @@ I build, ship, and operate **multi-agent AI systems** for businesses that can't 
 ### 🧠 Open Source
 
 **[Mnemonic](https://github.com/omarnagy91/mnemonic)** — Self-hosted AI memory for autonomous agents  
-↳ *Layered memory: scratchpad → episodic → semantic → relationships. Contradiction resolution. Apache 2.0. Python + FastAPI + Qdrant.*
+↳ *Layered memory: scratchpad → episodic → semantic → relationships. Contradiction resolution. MIT licensed. Python + FastAPI + Qdrant.*
 
 **[Cortex (fork)](https://github.com/omarnagy91/cortex)** — downstream of [Builderz Labs Mission Control](https://github.com/builderz-labs/mission-control)  
 ↳ *My contribution is a single OpenViking gateway response-unwrap fix. Substantially all upstream work is Builderz Labs' — please support them, not me, if Mission Control is useful to you.*
