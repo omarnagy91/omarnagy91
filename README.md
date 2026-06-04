@@ -12,13 +12,13 @@ I build, ship, and operate **multi-agent AI systems** for businesses that can't 
 ### 🚀 What I'm Building
 
 **[RetailOS](https://retailos.one)** — AI-first retail SaaS, multi-tenant POS & ordering platform  
-↳ *Live with paying customer (Mr. Donut, Egypt) · Arabic-first with RTL support*
+↳ *In production with a real retail tenant (Lolies, Nile Delta); Mr. Donut (Egypt) ran on it for a year. Arabic-first with RTL support*
 
 **[Bridge Sourcing Co.](https://bridgesourcing.co)** — Egypt → Global B2B sourcing  
 ↳ *Multi-agent pipeline tapping Egypt's 0% tariff lanes to EU / US / Gulf*
 
 **[MedPrüf](https://medpruf.com)** — Austrian medical licensing exam prep  
-↳ *10,993 active questions across 3 exam types (Wien Kenntnisprüfung, KMP Innsbruck, Pharmakologie). For foreign-trained doctors seeking Austrian medical licenses. German / English bilingual, Telegram Mini App.*
+↳ *~11,000 active questions across 3 exam types (Wien Kenntnisprüfung, KMP Innsbruck, Pharmakologie). For foreign-trained doctors seeking Austrian medical licenses. German / English bilingual, Telegram Mini App.*
 
 **[CompoundOS](https://compoundos.co)** — PropTech AI for residential compounds (paused)  
 ↳ *Targeting Egypt's $1.2B property management market*
@@ -41,4 +41,4 @@ I build, ship, and operate **multi-agent AI systems** for businesses that can't 
 - 📧 **Email:** omar@neurascale.org
 
 ---
-*AI Systems Engineer · Real products, not prototypes · Last verified 2026-05-24*
+*AI Systems Engineer · Real products, not prototypes · Last verified 2026-06-04*
