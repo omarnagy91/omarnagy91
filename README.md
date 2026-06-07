@@ -68,13 +68,6 @@ I take **fixed-scope AI engagements** — from an **[LLM evaluation & regression
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-<div align="center">
-
-![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarnagy91&show_icons=true&hide_border=true&title_color=7C1A1D&icon_color=7C1A1D&text_color=1A1A1A&bg_color=F4F1EA)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omarnagy91&layout=compact&hide_border=true&title_color=7C1A1D&text_color=1A1A1A&bg_color=F4F1EA)
-
-</div>
-
 ---
 
 <div align="center">
