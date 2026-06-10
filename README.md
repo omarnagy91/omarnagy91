@@ -1,79 +1,30 @@
-<div align="center">
-
 # Omar G. Nagy
-
-### AI Systems Engineer · Founder of [NeuraScale](https://neurascale.org)
 
 **I ship AI to production. Most consultants only demo it.**
 
-[![Website](https://img.shields.io/badge/omargnagy.com-1A1A1A?style=for-the-badge&logo=safari&logoColor=white)](https://omargnagy.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omargnagy)
-[![Email](https://img.shields.io/badge/omar@neurascale.org-7C1A1D?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:omar@neurascale.org)
+AI Systems Engineer. Founder of [NeuraScale](https://neurascale.org). 9+ years engineering. Egypt (GMT+2), covering EU mornings and US afternoons.
 
-`3 live AI products` · `2 open-source tools` · `9+ years engineering`
-Egypt (GMT+2) — I cover EU mornings and US afternoons.
+## What I do
 
-</div>
+I build AI systems for real businesses and run them in production: retail, medical exam prep, B2B sourcing, salons, cafes. Five products live right now.
 
----
+## Open source
 
-### 🚀 Live products
+- **[llm-eval-ci](https://github.com/omarnagy91/llm-eval-ci)**: a CI quality gate for LLM products. Golden-set regression tests with calibrated graders; the PR fails when answer quality drops.
+- **[mnemonic](https://github.com/omarnagy91/mnemonic)**: self-hosted layered memory for AI agents, with semantic search and contradiction resolution.
 
-**[RetailOS](https://retailos.one)** — AI-first, multi-tenant retail OS (POS + ordering + back office)
-↳ *Arabic-first with full RTL. Shipped to a real Nile-Delta retailer (Lolies); Mr. Donut ran on it for a year. Nine vertical templates spin up a new shop in a few clicks.*
+## Proof
 
-**[MedPrüf](https://medpruf.com)** — Austrian medical-licensing exam prep
-↳ *~11,000 vetted questions across 3 exam types (Kenntnisprüfung Wien, KMP Innsbruck, Pharmakologie), SM-2 spaced repetition, full exam simulator, Telegram Mini App. For foreign-trained doctors.*
+- [Five live products](https://omargnagy.com/work): [MedPrüf](https://medpruf.com), [RetailOS](https://retailos.one), [Bridge Sourcing](https://bridgesourcing.co), [Harmonia POS](https://omargnagy.com/work/harmonia), [Crema](https://omargnagy.com/work/crema).
+- [10,992+ exam questions live](https://medpruf.com) on MedPrüf, exam prep for foreign-trained doctors in Austria.
+- [Empty repo to live POS in one day](https://omargnagy.com/work/crema): Crema, a cafe operating system, took cash on its production URL on day one.
 
-**[Bridge Sourcing](https://bridgesourcing.co)** — Egypt → EU/US/Gulf B2B sourcing
-↳ *Vetted Egyptian factories over the 0%-duty Association-Agreement lane — ~1 week across the Mediterranean, not weeks from Asia.*
+## Work with me
 
-**[CompoundOS](https://compoundos.co)** — PropTech for residential compounds *(paused)*
+Entry point: **Find the leak**. $950, one week. You tell me what feels slow, manual, or expensive. You get a plain-English plan (what to fix, in what order, what it costs) plus one real fix, built and working.
 
----
+Full builds and ongoing partnerships: [omargnagy.com](https://omargnagy.com).
 
-### 🧠 Open source
+## Contact
 
-**[llm-eval-ci](https://github.com/omarnagy91/llm-eval-ci)** — Catch LLM quality regressions in CI
-↳ *A golden-set regression gate for LLM / RAG / agent systems: turn real production failures into calibrated graders + a CI gate that fails the PR when answer quality drops. Python · MIT.*
-
-**[Mnemonic](https://github.com/omarnagy91/mnemonic)** — Self-hosted layered memory for AI agents
-↳ *scratchpad → episodic → semantic → relationships graph, with real contradiction resolution. Python · FastAPI · Qdrant · MIT.*
-
-**[Cortex (fork)](https://github.com/omarnagy91/cortex)** — downstream of [Builderz Labs Mission Control](https://github.com/builderz-labs/mission-control)
-↳ *My contribution is a single gateway response-unwrap fix. Substantially all upstream work is Builderz Labs' — support them, not me, if Mission Control is useful to you.*
-
----
-
-### 🤝 Working with me
-
-I take **fixed-scope AI engagements** — from an **[LLM evaluation & regression gate](https://omargnagy.com/work/llm-eval-ci)** for a team that can't let quality silently drift, to a full production AI build. Real products, owned by you, no lock-in.
-
-→ **[See the work + how to engage](https://omargnagy.com)**
-
----
-
-### 🛠️ Stack
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat&logo=qdrant&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
----
-
-<div align="center">
-
-🌐 [omargnagy.com](https://omargnagy.com) · 🏢 [neurascale.org](https://neurascale.org) · 💼 [LinkedIn](https://linkedin.com/in/omargnagy) · 📧 omar@neurascale.org
-
-*Real products, not prototypes.*
-
-</div>
+[omar@neurascale.org](mailto:omar@neurascale.org) · [omargnagy.com](https://omargnagy.com) · [LinkedIn](https://linkedin.com/in/omargnagy)
