@@ -21,6 +21,10 @@ Two tools I maintain and use in my own production work:
 - [10,992+ exam questions live](https://medpruf.com) on MedPrüf, exam prep for foreign-trained doctors in Austria.
 - [Empty repo to live cafe POS in 1 day](https://omargnagy.com/work/crema): Crema went live on its production URL the same day it was started.
 
+## Collaborative client work
+
+- **[Abokamar film portfolio + Studio](https://omargnagy.com/work/abokamar):** built with Wael at WO! Studio. WO! Studio led design and handoff; I built the CMS, backend and deployment. Private editing, saved drafts and published releases, and reviewable short-video preparation in the browser. Deployed October 2026; public launch pending.
+
 ## Work with me
 
 Entry point: **Find the leak**. $950, one week. You tell me what feels slow, manual, or expensive in your business. You get a plain-English plan (what to fix, in what order, what it costs) plus one real fix, built and working. Book it at [omargnagy.com/audit](https://omargnagy.com/audit).
