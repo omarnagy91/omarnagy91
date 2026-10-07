@@ -1,35 +1,29 @@
 # Omar G. Nagy
 
-**I ship AI to production. Most consultants only demo it.**
+**Product Engineer. Interfaces, databases, integrations and AI workflows.**
 
-AI Systems Engineer. Founder of [NeuraScale](https://neurascale.org). 9+ years engineering. Egypt (GMT+2), covering EU mornings and US afternoons.
+Founder of [NeuraScale](https://www.neurascale.org). Based in Egypt, Cairo time (Africa/Cairo). Availability by arrangement.
 
-## What I do
+## What I build
 
-I build AI systems for real businesses and run them in production after launch: retail, medical exam prep, B2B sourcing, salons, cafes. Five products live right now. I own the whole path: data model, backend, UI, deploy, monitoring.
+I own the path from a business workflow to working software: data model, backend, interface, deployment and iteration. My work includes medical exam prep, Arabic-first operations software, owner-managed websites and AI tooling.
+
+## Selected work
+
+- **[Abokamar film portfolio + Studio](https://omargnagy.com/work/abokamar):** collaborative client work with Wael at WO! Studio. WO! Studio led design and handoff; I built the CMS, backend and deployment. Private editing, saved drafts, published releases and reviewable short-video preparation in the browser. Deployed October 2026; public launch pending.
+- **[MedPrüf](https://omargnagy.com/work/medpruef):** my own medical exam-prep product, with adaptive study, a maintained question bank and payment/access workflows.
+- **[Harmonia](https://omargnagy.com/work/harmonia):** delivered client build for Arabic salon operations, with owner-managed settings and feedback-driven iteration.
+- **[UTURN](https://omargnagy.com/work/uturn):** client build: bilingual website and owner-managed content system.
+- **[RetailOS](https://omargnagy.com/work/retailos)** and **[Bridge Sourcing](https://omargnagy.com/work/bridge):** paused own projects retained as engineering case studies.
 
 ## Open source
 
-Two tools I maintain and use in my own production work:
-
-- **[llm-eval-ci](https://github.com/omarnagy91/llm-eval-ci)**: a CI quality gate for LLM products. Golden-set regression tests with calibrated graders (grounding, hallucination, tool calls, LLM judge); the PR fails when answer quality drops. About 600 lines, one dependency, MIT.
-- **[mnemonic](https://github.com/omarnagy91/mnemonic)**: self-hosted layered memory for AI agents. Tiered context tree (L0/L1/L2 summaries), auto-capture and recall on every turn, contradiction resolution. Runs entirely on your own server, MIT.
-
-## Proof
-
-- [5 live products](https://omargnagy.com/work): [MedPrüf](https://medpruf.com), [RetailOS](https://retailos.one), [Bridge Sourcing](https://bridgesourcing.co), [Harmonia POS](https://omargnagy.com/work/harmonia), [Crema](https://omargnagy.com/work/crema).
-- [10,992+ exam questions live](https://medpruf.com) on MedPrüf, exam prep for foreign-trained doctors in Austria.
-- [Empty repo to live cafe POS in 1 day](https://omargnagy.com/work/crema): Crema went live on its production URL the same day it was started.
-
-## Collaborative client work
-
-- **[Abokamar film portfolio + Studio](https://omargnagy.com/work/abokamar):** built with Wael at WO! Studio. WO! Studio led design and handoff; I built the CMS, backend and deployment. Private editing, saved drafts and published releases, and reviewable short-video preparation in the browser. Deployed October 2026; public launch pending.
+- **[llm-eval-ci](https://github.com/omarnagy91/llm-eval-ci):** regression tests and CI quality gates for LLM applications.
+- **[Mnemonic](https://github.com/omarnagy91/mnemonic):** self-hosted layered memory for AI agents.
 
 ## Work with me
 
-Entry point: **Find the leak**. $950, one week. You tell me what feels slow, manual, or expensive in your business. You get a plain-English plan (what to fix, in what order, what it costs) plus one real fix, built and working. Book it at [omargnagy.com/audit](https://omargnagy.com/audit).
-
-Full builds and ongoing partnerships: [omargnagy.com](https://omargnagy.com).
+The existing entry point is **Find the leak**: $950, one week, a plain-English plan plus one working fix. [Scope an engagement](https://omargnagy.com/audit#ladder), or explore the [full portfolio](https://omargnagy.com/work).
 
 ## Contact
 
